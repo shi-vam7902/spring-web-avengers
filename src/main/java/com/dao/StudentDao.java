@@ -27,7 +27,8 @@ public class StudentDao {
 				,student.getUniversity()
 				,student.getBranch()
 				,student.getGender()
-				,student.getBcgpa());
+				,student.getBcgpa()
+				);
 	}
 	// method to add students
 	
